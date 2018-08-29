@@ -26,6 +26,10 @@ Questionable changes:
 - just changed base speed and all other speeds to ints (from floats); this could
 cause unknown types issues not changed
 
+Tuning: 
+- https://robotics.stackexchange.com/questions/167/what-are-good-strategies-for-tuning-pid-loops
+- Irene's advice (from messenger)
+
 */
 
 // the analog pin for the throttle 
